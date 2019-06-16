@@ -1,0 +1,9 @@
+# Para todos os arquivos e sub-pastas localizados na pasta dev/
+.vscode/
+#para o executavel
+engine2D
+*.gcda
+*.gcno
+test
+release
+vgcore*
